@@ -22,7 +22,7 @@ And everything else is done for you!
 
 - Me / [Pawkone](https://github.com/pawkone) - The **maker / cleanup** of this decompile
 - [Burnedpopcorn](https://github.com/burnedpopcorn) - For their [UnderAnalyzer-Decompiler](https://github.com/burnedpopcorn/UnderAnalyzer-Decompiler) which helped alot!
-- Open Your Heart / Saltshaker - *<sub>Although i don't support their awful doings...</sub>* Made "What's Shakin', Bacon?" And BaconTu in general!
+- **OPEN YOUR HEART.** / **Saltshakers** - *<sub>Although i don't support their awful doings...</sub>* Made "What's Shakin', Bacon?" And BaconTu in general!
 - **Misc / Extensions**
 - - [NekoPresence](https://github.com/nkrapivin/NekoPresence)
 - - [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD)
