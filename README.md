@@ -27,3 +27,5 @@ And everything else is done for you!
 - - [NekoPresence](https://github.com/nkrapivin/NekoPresence)
 - - [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD)
 - - [gameframe](https://github.com/YAL-GameMaker/gameframe)
+- - [rt-shell](https://github.com/daikon-games/rt-shell)
+- - [sprite_add_gif](https://github.com/YAL-GameMaker/sprite_add_gif/)
