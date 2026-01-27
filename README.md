@@ -29,3 +29,4 @@ And everything else is done for you!
 - - [gameframe](https://github.com/YAL-GameMaker/gameframe)
 - - [rt-shell](https://github.com/daikon-games/rt-shell)
 - - [sprite_add_gif](https://github.com/YAL-GameMaker/sprite_add_gif/)
+- - [Retro Palette Swapper](https://github.com/PixelatedPope/RetroPaletteSwapper)
