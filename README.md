@@ -1,5 +1,5 @@
 # What's Shakin', Bacon / "ohmygodbruh" - Decomp
-A decompiled **GameMaker Studio 2 project** of the lastest cancelled/leaked of **"What's Shakin', Bacon?"** aka **"ohmygodbruh" *build***
+A decompiled **GameMaker Studio 2 project** of the lastest cancelled of **"What's Shakin', Bacon?"** aka **"ohmygodbruh" *build***
 
 <sub>*Sorry for anything bad this is a single person made project :/*</sub>
 
