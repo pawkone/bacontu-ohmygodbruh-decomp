@@ -1,0 +1,1 @@
+text = "[wave]Hey bro, there are some blocks up ahead bro, and to be frank bro- the only way to get past bro is through them bro, luckily for you bro, you can press [G] bro to grab-dash through the blocks bro, and hold [Q] bro to mach run bro, this also breaks blocks bro!";

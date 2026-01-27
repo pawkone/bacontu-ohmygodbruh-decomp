@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"ts_syrupHouse",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"ts_syrupHouse",
+  "out_columns":64,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Tile Sets/Levels/Shell.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"tilespr_syrupHouse",
+    "path":"sprites/tilespr_syrupHouse/tilespr_syrupHouse.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"default",
+    "path":"texturegroups/default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":4096,
+}

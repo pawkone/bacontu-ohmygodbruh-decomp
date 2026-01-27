@@ -1,0 +1,1 @@
+text = "[wave]Listen bro, while your running bro, you can press the opposite direction bro to turn around bro, you'll lose some of your speed bro, but its a great way to preserve your mach bro, trust me bro, I'm an OG";

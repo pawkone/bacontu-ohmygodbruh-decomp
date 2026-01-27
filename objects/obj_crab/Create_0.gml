@@ -1,0 +1,11 @@
+event_inherited();
+spr_move = spr_crab_move;
+spr_turn = spr_biggiebag_turn;
+spr_stun = spr_crab_stun;
+spr_scared = spr_crab_scared;
+spr_dead = spr_crab_dead;
+state = states.normal;
+sprite_index = spr_crab_idle;
+awoken = false;
+awokenTimer = 14;
+invincable = false;

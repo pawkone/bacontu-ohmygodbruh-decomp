@@ -1,0 +1,2 @@
+fmod_studio_event_instance_stop(moveSnd, FMOD_STUDIO_STOP_MODE.IMMEDIATE);
+fmod_studio_event_instance_release(moveSnd);

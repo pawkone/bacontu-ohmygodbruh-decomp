@@ -1,0 +1,4 @@
+fmod_studio_event_instance_stop(music, FMOD_STUDIO_STOP_MODE.ALLOWFADEOUT);
+fmod_studio_event_instance_stop(TVsnd, FMOD_STUDIO_STOP_MODE.IMMEDIATE);
+fmod_studio_event_instance_release(music);
+fmod_studio_event_instance_release(TVsnd);

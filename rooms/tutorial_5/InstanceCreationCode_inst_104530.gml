@@ -1,0 +1,1 @@
+text = "[wave]Look bro, if you press [G] to do the grab dash bro, and then press [D] bro, you can do what I like to call the 'crouchslip' bro, this gives you alot of speed bro, you can even use this to go under small gaps bro and immediately head back into mach bro";
