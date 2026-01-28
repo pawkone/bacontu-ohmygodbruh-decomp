@@ -18,7 +18,6 @@
     {"$GMFolder":"","%Name":"rt-shell","folderPath":"folders/Extensions/rt-shell.yy","name":"rt-shell","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprite_add_gif","folderPath":"folders/Extensions/sprite_add_gif.yy","name":"sprite_add_gif","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Gameplay Elemnts","folderPath":"folders/Objects/Gameplay Elemnts.yy","name":"Gameplay Elemnts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Collision","folderPath":"folders/Objects/Gameplay Elemnts/Collision.yy","name":"Collision","resourceType":"GMFolder","resourceVersion":"2.0",},

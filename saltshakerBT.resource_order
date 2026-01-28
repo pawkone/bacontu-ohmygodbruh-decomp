@@ -7,7 +7,6 @@
     {"name":"rt-shell","order":4,"path":"folders/Extensions/rt-shell.yy",},
     {"name":"sprite_add_gif","order":3,"path":"folders/Extensions/sprite_add_gif.yy",},
     {"name":"Fonts","order":1,"path":"folders/Fonts.yy",},
-    {"name":"Notes","order":2,"path":"folders/Notes.yy",},
     {"name":"Objects","order":3,"path":"folders/Objects.yy",},
     {"name":"Gameplay Elemnts","order":129,"path":"folders/Objects/Gameplay Elemnts.yy",},
     {"name":"Collision","order":1,"path":"folders/Objects/Gameplay Elemnts/Collision.yy",},
