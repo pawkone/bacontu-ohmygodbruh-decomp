@@ -13,9 +13,9 @@ A decompiled **GameMaker Studio 2 project** of the lastest cancelled of **"What'
 <sub>*Anyways...*</sub>
 # What you need to use this!
 - IDE (Gamemaker itself) Version
-  - 2024.14.1.XXX <ins>(Recommended: 2024.14.1.210)</ins>
+  - 2024.14.1.XXX ([Recommended: 2024.14.1.210](https://gms.yoyogames.com/GameMaker-Installer-2024.14.1.210.exe))
 - Runtime Version
-  - <ins>2024.14.1.253</ins>
+  - 2024.14.1.253
 
 And everything else is done for you!
 
